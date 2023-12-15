@@ -68,11 +68,9 @@ const database = [
     acNum: 1029384765,
     holderName: "Adam Randolph",
     holderAddress: "37675 Fremont Boulevard, Fremont CA 94536",
-    units: "300 kWh"
-  },
-  {
+    units: "300 kWh",
+
     id: 11,
-    acNum: 1029384766,
     holderName: "Kailey Cochran",
     holderAddress: "10826 Pointe Royal Drive, Bakersfield CA 93311",
     units: "259 kWh"
